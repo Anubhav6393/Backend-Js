@@ -1,0 +1,15 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "a basic a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": [
+    "node",
+    "anu"
+  ],
+  "author": "anubhav mishra",
+  "license": "ISC"
+}
