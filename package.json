@@ -4,12 +4,16 @@
   "description": "a basic a basic app to deploy",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "node",
     "anu"
   ],
   "author": "anubhav mishra",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
 }
